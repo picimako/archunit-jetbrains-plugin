@@ -9,6 +9,7 @@ changelog = "2.0.0"
 gradleIntelliJPlugin = "1.13.3"
 qodana = "0.1.13"
 kover = "0.6.1"
+lombok = "6.5.0.3"
 
 [libraries]
 annotations = { group = "org.jetbrains", name = "annotations", version.ref = "annotations" }
@@ -20,3 +21,4 @@ gradleIntelliJPlugin = { id = "org.jetbrains.intellij", version.ref = "gradleInt
 kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kover = { id = "org.jetbrains.kotlinx.kover", version.ref = "kover" }
 qodana = { id = "org.jetbrains.qodana", version.ref = "qodana" }
+lombok = {id = "io.freefair.lombok", version.ref = "lombok"}
