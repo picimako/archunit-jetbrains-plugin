@@ -16,7 +16,11 @@ This plugin for IntelliJ-based IDEs provides integration for the ArchUnit testin
   Download the [latest release](https://github.com/picimako/archunit-jetbrains-plugin/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
+## Documentation
 
+You can find the plugin documentation below:
+- [JUnit Support](docs/junit_support.md)
+- [Language Injections](docs/language_injections.md)
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
